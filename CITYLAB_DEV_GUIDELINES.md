@@ -1,4 +1,5 @@
-# CityLab Development Guidelines & Best Practices
+# CityLAB Berlin Development Guidelines & Best Practices
+
 - We write well-structured, semantic HTML and pay attention to accessibility
 - We value proper documentation (At least in a README.md)
 - Only strictly necessary comments are written in the code. The code should be self-explanatory.
