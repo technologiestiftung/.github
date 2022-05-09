@@ -18,6 +18,6 @@ Our Workflow is centered around Javascript and ([Typescript](https://www.typescr
     - **[Github Actions](https://github.com/features/actions)**
     - Testing
         - **[Jest](https://jestjs.io/)** for unit/integration testing
-        - **[Playright](https://playwright.dev/)** (preferred) or **[Cypress](https://www.cypress.io/)** for end-to-end tests
+        - **[Playwright](https://playwright.dev/)**  or **[Cypress](https://www.cypress.io/)** for end-to-end tests
         - **[Storybook](https://storybook.js.org/)** for component testing in isolation
 - We use the following deployment services: **[Vercel](https://vercel.com)**, **[Render](https://render.com/)** or **[Netlify](https://www.netlify.com/)**. We also tried [**fly.io**](http://fly.io) a few times and quite liked it.
